@@ -1,0 +1,26 @@
+---
+title: "1112 稅法專題研究"
+author: "柯老師"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+#   bookdown::pdf_book: default
+  theme: united
+  toc: true
+link-citations: true
+---
+
+# Preface {-}
+稅法專題研究
+
+
+111-2 學期《稅法專題研究》課堂筆記。采用R的bookdown製作，輸出格式為bookdown::gitbook。
+
+
+
+
+3/7 排報告日期
+
+3/14 ~ 5/30（6/6） 報告
