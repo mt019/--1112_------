@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}前言}{1}{section.1}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}空氣污染防制費}{1}{section.2}%
+\contentsline {subsection}{\numberline {一、}污染者付費原則（略）}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {二、}徵收對象}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {三、}固定污染源空氣污染防制費計算方式（略）}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {四、}稽徵程序}{2}{subsection.2.4}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}「追補」空污費之類型}{3}{section.3}%
+\contentsline {subsection}{\numberline {一、}收費辦法第17條}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {二、}以故意方式短、漏報者}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}實務案例}{5}{section.4}%
+\contentsline {subsection}{\numberline {一、}案件背景}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {二、}時效爭議}{5}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {（一）}原告主張}{5}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {（二）}被告抗辯}{6}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {（三）}法院見解}{6}{subsubsection.4.2.3}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}本文見解}{7}{section.5}%
+\contentsline {subsection}{\numberline {一、}請求權時效的法律保留原則}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {二、}時效起算時點}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {三、}時效中斷時點}{8}{subsection.5.3}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}小結}{8}{section.6}%
+\contentsline {subsection}{\numberline {一、}本文假設特別公課為法定之債}{8}{subsection.6.1}%
