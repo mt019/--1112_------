@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.25)  16 MAY 2023 15:46
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.25)  18 MAY 2023 00:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -705,8 +705,7 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks35
 \AP@partial=\box97
 \AP@footins=\box98
-))
-No file 論空氣污染防制費之「核課期間」.aux.
+)) (./論空氣污染防制費之「核課期間」.aux)
 \openout1 = `論空氣污染防制費之「核課期間」.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -719,7 +718,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 17.
-(d:/MaakApp/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+ (d:/MaakApp/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 17.
@@ -835,72 +834,50 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: xetex.def on input line 149.
  (d:/MaakApp/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 17.
+ (./論空氣污染防制費之「核課期間」.out) (./論空氣污染防制費之「核課期間」.out)
 \@outlinefile=\write3
 \openout3 = `論空氣污染防制費之「核課期間」.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    Calculating math sizes for size <14.39996> on input line 20.
-[1
+ [1
 
-]
-No file 論空氣污染防制費之「核課期間」.toc.
-\tf@toc=\write4
-\openout4 = `論空氣污染防制費之「核課期間」.toc'.
-
-[2
-
-] (./_intro.tex
+] (./論空氣污染防制費之「核課期間」.toc
 
 Package xeCJK Warning: Unknown CJK family `\CJKsfdefault' is being ignored.
 (xeCJK)                
 (xeCJK)                Try to use `\setCJKsansfont[<...>]{<...>}' to define
 (xeCJK)                it.
 
+)
+\tf@toc=\write4
+\openout4 = `論空氣污染防制費之「核課期間」.toc'.
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 41.
+ [2
 
-[1
+] (./_intro.tex [1
 
-])
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 63.
-
-[2]
-
-LaTeX Warning: Reference `table.art.17' on page 3 undefined on input line 71.
-
-(./table3.tex)
-
-LaTeX Warning: Reference `article-compare' on page 3 undefined on input line 77.
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 83.
-
-[3]
-Overfull \hbox (9.86127pt too wide) in alignment at lines 83--83
+] [2] [3]) [4] (./table3.tex) [5]
+Overfull \hbox (9.86127pt too wide) in alignment at lines 69--69
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 3977) in paragraph at lines 83--83
+Underfull \hbox (badness 3977) in paragraph at lines 69--69
 \TU/DFKai-SB(1)/m/n/12 央 主 管 機 關
  []
 
 
-Overfull \hbox (3.23412pt too wide) in paragraph at lines 83--83
+Overfull \hbox (3.23412pt too wide) in paragraph at lines 69--69
  []|[]| 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 83--83
+Overfull \hbox (12.0pt too wide) in paragraph at lines 69--69
  []|[]| 
  []
 
 
-Overfull \hbox (9.86127pt too wide) in alignment at lines 83--83
+Overfull \hbox (9.86127pt too wide) in alignment at lines 69--69
  [] [] [] 
  []
 
@@ -918,20 +895,9 @@ Overfull \hbox (1.75021pt too wide) in paragraph at lines 4--18
  [][] 
  []
 
-) (./_cases.tex)
+) (./_cases.tex) [6
 
-LaTeX Warning: Reference `案例整理' on page 4 undefined on input line 100.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 101.
-
-[4
-
-] (./table4.tex)
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 114.
-
-[5]
+] (./table4.tex) [7]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -945,56 +911,32 @@ Package tabularray Warning: Table width is too small, need 20.75607pt more!
 
 > Step: build the whole table.
 
-Overfull \hbox (20.75607pt too wide) in paragraph at lines 114--114
+Overfull \hbox (20.75607pt too wide) in paragraph at lines 100--100
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 128.
-
-[6]
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 158.
-
-[7] 
+[8] [9] 
 AED: lastpage setting LastPage
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 166.
-
-[8]
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 166.
-
-[9]
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 166.
-
-[10] (./論空氣污染防制費之「核課期間」.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+[10] [11] [12] (./論空氣污染防制費之「核課期間」.aux)
 
 Package rerunfilecheck Warning: File `論空氣污染防制費之「核課期間」.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `論空氣污染防制費之「核課期間」.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9BD1B34AF193A707F4B67173333CD03D;1977.
+(rerunfilecheck)             Before: F286BEA6F6DE86F438566A7DC43079C6;2261
+(rerunfilecheck)             After:  818FDC53EC919A0C57AA377063219A11;2431.
  ) 
 Here is how much of TeX's memory you used:
- 19402 strings out of 475848
- 447992 string characters out of 5801585
- 829973 words of memory out of 5000000
- 40178 multiletter control sequences out of 15000+600000
- 477433 words of font info for 100 fonts, out of 8000000 for 9000
+ 19459 strings out of 475848
+ 450514 string characters out of 5801585
+ 830493 words of memory out of 5000000
+ 40224 multiletter control sequences out of 15000+600000
+ 477449 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  77i,27n,102p,1325b,786s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 論空氣污染防制費之「核課期間」.pdf (12 pages).
+Output written on 論空氣污染防制費之「核課期間」.pdf (14 pages).
