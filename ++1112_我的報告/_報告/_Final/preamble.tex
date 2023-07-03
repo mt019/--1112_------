@@ -45,12 +45,46 @@
 % 如果想讓整篇文章都首行不縮排，則：\setlength{\parindent}{0pt}
 
 
+
+
+% \newcommand{\subsubsubsection}[1]{\paragraph{#1}\mbox{}\\}
+
+% \newcommand\subsubsubsection{\@startsection{paragraph}{4}{\z@}{-2.5ex\@plus -1ex \@minus -.25ex}{1.25ex \@plus .25ex}{\normalfont\normalsize\bfseries}}
+
+\titleclass{\subsubsubsection}{straight}[\subsubsection]
+\newcounter{subsubsubsection}
+% [subsubsection]
+% \renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
+\renewcommand\thesubsubsubsection{\arabic{subsubsubsection}.}
+
+\titleformat{\subsubsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
+
+\titlespacing*{\subsubsubsection}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+
+\makeatletter
+% \def\l@subsubsubsection{\@dottedtocline{4}{7em}{4em}}
+\def\toclevel@subsubsubsection{4}
+\def\l@subsubsubsection{\@dottedtocline{4}{7em}{4em}}
+\makeatother
+% https://tex.stackexchange.com/questions/60209/how-to-add-an-extra-level-of-sections-with-headings-below-subsubsection
+
+%終於達到我想要的效果了QQQQQ
+
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
 % in your example the titles in the toc are all sans serif, so I'll just add that here
 % feel free to leave that out in your original document,
 % it's just for visual comparability
 \renewcommand{\cftsecfont}{\bfseries\sffamily}
 \renewcommand{\cftsubsecfont}{\sffamily}
 \renewcommand{\cftsubsubsecfont}{\sffamily}
+% \renewcommand{\cftsubsubsubsecfont}{\sffamily}
 \renewcommand{\cftparafont}{\sffamily}
 \renewcommand{\cftsubparafont}{\sffamily}
 
@@ -62,6 +96,7 @@
     \zhnum[style={Traditional,Financial}]{mysec}、}
 \renewcommand\thesubsection{\zhnum{subsection}、} % added a 、
 \renewcommand\thesubsubsection{（\zhnum{subsubsection}）} % added parentheses
+% \renewcommand\thesubsubsubsection{\zhnum{subsubsection}.} % added parentheses
 % (full-width, don't know if that's what you want)
 \renewcommand\theparagraph{} % you don't want paragraph numbers
 \renewcommand\thesubparagraph{} % nor subparagraph numbers
@@ -69,7 +104,7 @@
 % we have to adjust the spacing in the toc because the section label is longer than usual
 \addtolength\cftsecnumwidth{1em}
 \addtolength\cftsubsecindent{1em}
-\addtolength\cftsubsubsecindent{1em}
+% \addtolength\cftsubsubsecindent{1em}
 
 % here we need to make sure the normal section counter is accessed
 \titleformat{\section}{\Large\bfseries\filcenter}
@@ -77,6 +112,7 @@
 % not really sure what you intend to achieve with \fontsize but I'll leave it here
 \titleformat*{\subsection}{\fontsize{15}{20}\bfseries\sffamily} 
 \titleformat*{\subsubsection}{\fontsize{14}{18}\bfseries\sffamily}
+% \titleformat*{\subsubsubsection}{\fontsize{14}{18}\bfseries\sffamily}
 
 % no extra version for numberless is necessary since no numbers are used anyways
 % also you get newlines from omitting the [display] in \titleformat already

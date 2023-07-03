@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}前言}{1}{section.1}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}空氣污染防制費}{1}{section.2}%
+\contentsline {subsection}{\numberline {一、}法律原則}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {（一）}法律保留原則}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {（二）}污染者付費原則}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {二、}空污費之債}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {（一）}空污費為法定之債}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {（二）}徵收對象}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {（三）}固定污染源空氣污染防制費計算方式}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsubsection}{\numberline {1.}排放量}{5}{subsubsubsection.1}%
+\contentsline {subsubsubsection}{\numberline {2.}收費費率}{6}{subsubsubsection.2}%
+\contentsline {subsection}{\numberline {三、}空污費之稽徵}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {（一）}稽徵程序}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {（二）}核課期間}{7}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}「追補繳」空污費之類型}{8}{section.3}%
+\contentsline {subsection}{\numberline {一、}收費辦法第17條}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {二、}以故意方式短、漏報者}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}關於「核課期間」之實務案例}{10}{section.4}%
+\contentsline {subsection}{\numberline {一、}案件背景}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {二、}時效爭議}{10}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {（一）}原告主張}{11}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {（二）}被告抗辯}{11}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {（三）}法院見解}{11}{subsubsection.4.2.3}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}本文見解}{12}{section.5}%
+\contentsline {subsection}{\numberline {一、}時效起算時點}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {二、}時效中斷時點}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {三、}請求權時效的法律保留原則}{13}{subsection.5.3}%
+\contentsline {section}{\numberline {\global \advance \c@mysec 1\relax \zhnumwithoptions {style={Traditional,Financial}}{mysec}、}小結}{14}{section.6}%
