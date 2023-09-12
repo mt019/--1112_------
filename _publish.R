@@ -1,12 +1,12 @@
 # publish the book with different HTML styles; you should not need this script
 
-unlink('_book', recursive = TRUE)
+unlink('docs', recursive = TRUE)
 
 x = readLines('index.Rmd')
 i = 1
 s = paste0('title: "稅法專題研究 (', c('Bootstrap', 'Tufte'), ' Style)"')
 for (fmt in c('html_book', 'tufte_html_book')) {
-  unlink('_book', recursive = TRUE)
+  unlink('docs', recursive = TRUE)
   file.copy('index.Rmd', '_index.Rmd')
   file.copy('_output.yml', '_output.yml2')
   writeLines(
@@ -24,7 +24,7 @@ for (fmt in c('html_book', 'tufte_html_book')) {
   i = i + 1
   bookdown::publish_book(paste0('bookdown-demo', i))
 }
-unlink('_book', recursive = TRUE)
+unlink('docs', recursive = TRUE)
 
 # default formats
 formats = c(
